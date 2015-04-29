@@ -10,7 +10,7 @@
         <div id="iwao">
             
         <?php
-        
+        echo "at least its connected";
         ?>
         </div>
             
